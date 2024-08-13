@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Calcular Frete - Unidash</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,800&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/main-nav.css">
+  <link rel="stylesheet" href="css/main-title.css">
+  <link rel="stylesheet" href="css/rastreio.css">
+  <link rel="stylesheet" href="css/calcular.css">
+</head>
+<body>
+  <nav class="menu js-menu">
+    <ul class="nav-menu">
+        <img class="logo-nav" src="assets/image/unidash-log-removebg.png" alt="">
+        <li class="nav-item -title-nav"><a href="index.html">HOME</a></li>
+        <li class="nav-item -title-nav"><a href="#servicos">SERVIÇOS</a></li>
+        <li class="nav-item -title-nav"><a href="#faq">FAQ</a></li>
+        <li class="nav-item -title-nav"><a href="#contato">CONTATO</a></li>
+    </ul>
+</nav>
+
+  <div class="container">
+    <h1 class="title-cotacao">CALCULADORA DE FRETE</h1>
+    <p class="">Meça o seu pacote e insira os dados abaixo para comparar cotações a preços exclusivos.</p>
+
+    <section class="calcular-frete">
+      <form class="form-calcular" id="form-calcular">
+        <label for="fromPostalCode" >CEP de Origem:</label>
+        <input type="text" id="fromPostalCode" name="fromPostalCode" placeholder="Digite o CEP">
+
+        <label for="toPostalCode">CEP de Destino:</label>
+        <input type="text" id="toPostalCode" name="toPostalCode" placeholder="Digite o CEP">
+
+        <label for="packageHeight">Altura do Pacote:</label>
+        <input type="text" id="packageHeight" name="packageHeight" placeholder="4 cm">
+
+        <label for="packageWidth">Largura do Pacote:</label>
+        <input type="text" id="packageWidth" name="packageWidth" placeholder="12 cm">
+
+        <label for="packageLength">Comprimeito do Pacote:</label>
+        <input type="text" id="packageLength" name="packageLength" placeholder="17 cm">
+
+        <label for="packageWeight">Peso do Pacote:</label>
+        <input type="text" id="packageWeight" name="packageWeight" placeholder="5 kg">
+
+        <button class="btn-calculo" type="button" id="btn-calcular">Calcular Frete</button>
+        <div id="sedexResult"></div>
+      </form>  
+    </section>
+  </div>
+
+  <script src="js/calcular.js"></script>
+</body>
+</html>

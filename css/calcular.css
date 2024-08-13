@@ -1,0 +1,45 @@
+
+.container label {
+  font-family: inherit;
+}
+
+.container .title-cotacao, p, input {
+  margin-bottom: 1rem;
+}
+
+.form-calcular {
+  display: flex;
+  flex-direction: column;
+  background-color: #0099FF;
+  padding: 28px;
+  border-radius: 8px;
+  box-shadow: 10px 10px 50px grey;
+}
+.container {
+  grid-column: span 4;
+}
+
+.calcular-frete {
+  display: flex;
+}
+
+.container input {
+  display: block;
+  height: 20px;
+  width: 100%;
+  border-radius: 5px;
+  border: none;
+}
+
+.form-calcular .btn-calculo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  cursor: pointer;
+  transition: 0.3s;
+  padding: 6px;
+  color: #000;
+  background-color: red;
+  border-radius: 5px;
+}

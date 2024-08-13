@@ -1,0 +1,7 @@
+.copy {
+  grid-column: 1 / 6;
+  font-family: inherit;
+  background: #CCCCCC;
+  padding: 20px;
+  text-align: center;
+}
