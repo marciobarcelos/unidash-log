@@ -10,7 +10,7 @@ Como Funciona
 
 CEP de Origem: Insira o CEP de onde o pacote será enviado.
 CEP de Destino: Insira o CEP para onde o pacote será enviado.
-Dimensões do Pacote:
+Dimensões do Pacote: 
 Altura: Insira a altura do pacote em centímetros.
 Largura: Insira a largura do pacote em centímetros.
 Comprimento: Insira o comprimento do pacote em centímetros.
