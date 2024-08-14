@@ -16,33 +16,33 @@ Largura: Insira a largura do pacote em centímetros.
 Comprimento: Insira o comprimento do pacote em centímetros.
 Peso do Pacote: Insira o peso do pacote em quilogramas.
 
-![Calcular Frete](https://ibb.co/WcKwfSw)
+![Calcular Frete](https://i.ibb.co/MRN47q4/calcular.png)
 
 #### Banner em Slide
 
 Apresenta os principais serviços oferecidos pela empresa, como Armazenamento, Transporte e Distribuição, Unidash Expresso e Unifrota, em um banner em slide.
 
-![Banner](https://ibb.co/r2NcHPy)
+![Banner](https://i.ibb.co/zVD7Zcf/slide.png)
 
 
 #### Descrição dos Serviços:
 
 Fornece informações detalhadas sobre os serviços oferecidos pela empresa, incluindo Armazenamento, Transporte e Distribuição, Unidash Expresso e Unifrota.
 
-![Serviços](https://ibb.co/sv8g4Cz)
+![Serviços](https://i.ibb.co/hR3gNcw/servicos.png)
 
 
 #### FAQ (Perguntas Frequentes):
 
 Uma seção dedicada a responder às perguntas mais frequentes dos clientes. Isso ajuda a fornecer informações claras e úteis sobre os serviços oferecidos.
 
-![FAQ](https://ibb.co/ydcCDLB)
+![FAQ](https://i.ibb.co/FmL19Gq/faq.png)
 
 #### Contato:
 
 Permite que os clientes entrem em contato com a empresa por meio de um formulário de contato. Isso facilita a comunicação e permite que os clientes obtenham assistência quando necessário.
 
-![Contato](https://ibb.co/3FnwGKs)
+![Contato](https://i.ibb.co/kDtpkZy/contato.png)
 
 #### Tecnologias
 
