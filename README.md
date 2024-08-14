@@ -6,15 +6,7 @@ Este é um projeto de site de empresa logística. O site foi desenvolvido com HT
 
 ### Calculadora de Frete
 
-Como Funciona
-
-CEP de Origem: Insira o CEP de onde o pacote será enviado.
-CEP de Destino: Insira o CEP para onde o pacote será enviado.
-Dimensões do Pacote: 
-Altura: Insira a altura do pacote em centímetros.
-Largura: Insira a largura do pacote em centímetros.
-Comprimento: Insira o comprimento do pacote em centímetros.
-Peso do Pacote: Insira o peso do pacote em quilogramas.
+Calcula o frete de acordo com as dimensões do pacote, CEP de Origem e CEP de Destino.
 
 ![Calcular Frete](https://i.ibb.co/MRN47q4/calcular.png)
 
