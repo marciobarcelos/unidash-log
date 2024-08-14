@@ -6,7 +6,7 @@ Este é um projeto de site de empresa logística. O site foi desenvolvido com HT
 
 ### Calculadora de Frete
 
-Calcula o frete de acordo com as dimensões do pacote, CEP de Origem e CEP de Destino.
+Integração de API que calcula o frete de acordo com as dimensões do pacote, CEP de Origem e CEP de Destino.
 
 ![Calcular Frete](https://i.ibb.co/MRN47q4/calcular.png)
 
